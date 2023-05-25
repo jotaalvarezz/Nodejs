@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
-    "is-odd": "^3.0.1"
+    "is-odd": "^3.0.1",
+    "sharp": "^0.32.1"
   }
 }
